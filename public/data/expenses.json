@@ -5,7 +5,7 @@
   "summary": {
     "totalReceived": 2000,
     "totalSpent": 0,
-    "note": "Actualizá totalReceived y totalSpent cuando registres movimientos"
+    "note": "Estamos actualizando los datos manualmente, por lo que pueden haber diferencias con los datos reales."
   },
   "categories": [
     {
