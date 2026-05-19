@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "title": "Ayudá a Garffi · Collecta PIF San Juan",
+    "description": "Garffi es un gatito de 1 año con PIF. Primer caso confirmado en San Juan. Tu aporte ayuda a su tratamiento.",
+    "locale": "es-AR"
+  },
+  "brand": {
+    "name": "Garffi",
+    "tagline": "Una patita a la vez",
+    "location": "San Juan, Argentina"
+  },
+  "hero": {
+    "headline": "Garffi necesita tu ayuda",
+    "subheadline": "Gatito de 1 año · Peritonitis Infecciosa Felina (PIF)",
+    "badge": "Primer caso confirmado en San Juan",
+    "image": "/images/garffi-hero.png",
+    "imageAlt": "Garffi, gatito con ojos tiernos"
+  },
+  "story": {
+    "title": "Su historia",
+    "paragraphs": [
+      "Garffi llegó a nuestras vidas hace dos años con esa energía de gatito que ilumina todo. Los primeros dias de Mayo empezamos a notar que algo no estaba bien: fiebre, apatía, pérdida de apetito.",
+      "Tras muchos estudios, confirmaron Peritonitis Infecciosa Felina (PIF). Lamentablemente en San Juan no encontramos casos registrado, y tampoco mucha información sobre el tema. Los veterinarios se pusieron en contacto con especialistas en el tema y nos dieron el diagnóstico.",
+      "Hoy se encuentra internado en la veterinaria San Martin de Porres, donde está recibiendo el tratamiento necesario para mejorar su condición.",
+      "Hoy luchamos día a día con tratamiento, controles veterinarios y mucho amor. Cada aporte — grande o chico — nos acerca a darle más tiempo y calidad de vida."
+    ],
+    "highlights": [
+      { "icon": "🐾", "label": "2 años", "text": "de pura ternura" },
+      { "icon": "🏥", "label": "PIF", "text": "en tratamiento activo" },
+      { "icon": "📍", "label": "San Juan", "text": "No encontramos casos registrados en la provincia" }
+    ]
+  },
+  "progress": {
+    "goal": 1800,
+    "raised": 21,
+    "label": "Meta del tratamiento",
+    "note": "Actualizá raised en site.json cuando recibas aportes",
+    "currency": "USD"
+  },
+  "cta": {
+    "fabLabel": "Quiero ayudar",
+    "sectionTitle": "Sumate a la colecta",
+    "sectionText": "Tu donación alimenta medicación, estudios y consultas. Gracias por ser parte de la manada de Garffi."
+  },
+  "footer": {
+    "thanks": "Gracias por leer la historia de Garffi. Compartir también ayuda.",
+    "contact": {
+      "instagram": "",
+      "whatsapp": "",
+      "email": ""
+    }
+  }
+}

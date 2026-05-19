@@ -1,0 +1,20 @@
+{
+  "currency": "ARS",
+  "mercadoPago": {
+    "enabled": true,
+    "label": "Pagar con Mercado Pago",
+    "baseUrl": "https://link.mercadopago.com.ar/asd234234234"
+  },
+  "transfer": {
+    "enabled": true,
+    "alias": "salvemosagarffi",
+    "cbu": "0000003100009197913175",
+    "titular": "Rocio Belen Sanchez",
+    "banco": "Mercado Pago",
+    "copyHint": "Copiá el alias y hacé tu transferencia. ¡Gracias por ayudar a Garffi!"
+  },
+  "modal": {
+    "title": "Datos para transferir",
+    "subtitle": "Cada aporte suma para el tratamiento de Garffi"
+  }
+}

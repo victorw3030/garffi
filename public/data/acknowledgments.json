@@ -1,0 +1,48 @@
+{
+  "title": "Corazones que suman",
+  "subtitle": "Gracias infinitas a quienes caminan junto a Garffi",
+  "intro": "Cada nombre representa tiempo, amor y esfuerzo dedicado a que nuestro gatito siga luchando.",
+  "joinButton": "Sumarme",
+  "collaborators": [
+    {
+      "name": "Rocío Belén S.",
+      "role": "Coordinación y cuidados"
+    },
+    {
+      "name": "Familia S.",
+      "role": "Acompañamiento diario"
+    },
+    {
+      "name": "Veterinaria San Juan",
+      "role": "Seguimiento médico"
+    }
+  ],
+  "modal": {
+    "title": "Quiero sumarme",
+    "subtitle": "Hay muchas formas de ayudar a Garffi. Elegí la que más te represente.",
+    "ways": [
+      {
+        "icon": "📢",
+        "title": "Difundir",
+        "text": "Compartí la historia en redes, grupos de mascotas o con amigos."
+      },
+      {
+        "icon": "🩺",
+        "title": "Apoyo profesional",
+        "text": "Si sos veterinario/a o tenés contactos útiles, escribinos."
+      },
+      {
+        "icon": "💝",
+        "title": "Donar",
+        "text": "Cada aporte — grande o chico — suma para medicación y estudios."
+      }
+    ],
+    "contact": {
+      "hint": "Contanos cómo querés colaborar y te respondemos a la brevedad.",
+      "whatsapp": "https://wa.me/5492644472646",
+      "whatsappLabel": "Escribir por WhatsApp",
+      "email": "",
+      "instagram": "https://www.instagram.com/pif.garffi"
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "title": "Transparencia",
+  "subtitle": "Así usamos cada peso que nos confían",
+  "currency": "ARS",
+  "summary": {
+    "totalReceived": 2000,
+    "totalSpent": 0,
+    "note": "Actualizá totalReceived y totalSpent cuando registres movimientos"
+  },
+  "categories": [
+    {
+      "id": "meds",
+      "name": "Medicación PIF",
+      "icon": "💊",
+      "color": "#e8b4bc",
+      "budgetPercent": 45
+    },
+    {
+      "id": "vet",
+      "name": "Consultas y estudios",
+      "icon": "🩺",
+      "color": "#b8d4c8",
+      "budgetPercent": 30
+    },
+    {
+      "id": "food",
+      "name": "Alimento especial",
+      "icon": "🥣",
+      "color": "#f5d5a8",
+      "budgetPercent": 15
+    },
+    {
+      "id": "other",
+      "name": "Logistica",
+      "icon": "🚗",
+      "color": "#d4c4e8",
+      "budgetPercent": 10
+    }
+  ],
+  "entries": [
+    {
+      "id": "e1",
+      "date": "2025-05-12",
+      "categoryId": "food",
+      "description": "Alimento Exelente Premium (1 mes)",
+      "amount": 10000,
+      "status": "paid"
+    },
+    {
+      "id": "e2",
+      "date": "2025-05-12",
+      "categoryId": "vet",
+      "description": "Primer consulta veterinaria",
+      "amount": 25000,
+      "status": "paid"
+    },
+    {
+      "id": "e3",
+      "date": "2025-05-13",
+      "categoryId": "vet",
+      "description": "Análisis de sangre y ecografía",
+      "amount": 90000,
+      "status": "paid"
+    },
+    {
+      "id": "e4",
+      "date": "2025-05-15",
+      "categoryId": "vet",
+      "description": "Operacion de exploratoria abdominal",
+      "amount": 300000,
+      "status": "paid"
+    },
+    {
+      "id": "e5",
+      "date": "2025-05-16",
+      "categoryId": "vet",
+      "description": "Intenacion 2 días despues de la operacion",
+      "amount": 220000,
+      "status": "paid"
+    },
+    {
+      "id": "e6",
+      "date": "2025-05-16",
+      "categoryId": "vet",
+      "description": "Analisis para verificar PIF",
+      "amount": 120000,
+      "status": "paid"
+    },
+    {
+      "id": "e7",
+      "date": "2025-05-16",
+      "categoryId": "other",
+      "description": "Transporte de estudios a mendonza",
+      "amount": 12500,
+      "status": "paid"
+    },
+    {
+      "id": "e8",
+      "date": "2025-05-18",
+      "categoryId": "meds",
+      "description": "Dosificacion de PIF",
+      "amount": 163000,
+      "status": "paid"
+    },
+    {
+      "id": "e8",
+      "date": "2025-05-18",
+      "categoryId": "other",
+      "description": "viaje para buscar primera dosis a San Luis",
+      "amount": 47000,
+      "status": "paid"
+    }
+  ]
+}

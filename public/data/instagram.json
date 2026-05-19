@@ -1,0 +1,11 @@
+{
+  "title": "El camino de Garffi",
+  "subtitle": "Seguinos en Instagram para ver actualizaciones del tratamiento",
+  "profileUrl": "",
+  "profileLabel": "Ver perfil en Instagram",
+  "elfsight": {
+    "appId": "61a42a98-5ab2-4e0f-8fc7-4c7cbdb01bef",
+    "scriptUrl": "https://elfsightcdn.com/platform.js",
+    "lazy": true
+  }
+}
